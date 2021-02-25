@@ -1,0 +1,26 @@
+---
+title: "Daniel Lopez"
+image: "dani.jpg"
+links:
+  - label: GitHub
+    url: "https://github.com/DannyLCG"
+  - label: Email
+    url: "olopez@lcg.unam.mx"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+Currently studying the Genomic Sciences Undergaduate Program at UNAM, Morelos. I enjoy learning cell biology, biochemistry and neurobiology among others, but my main interest focus in precision medicine and stratified healthcare. I look forward in learning the skills that these recent and exiting fields requiere such as machine learning, deep learning, natural language processing and other computational skills related to biostatistics and image processing and analysis. I am also motivated by the current issues in bioethics that need to be discused and resolved in order to apply this knowledge in real life.
+
+## Education
+
+**National Autonomous University of Mexico** | Cuernavaca, Morelos
+
+
+B.S. in Genomic Sciences | September 20019 - May 2023
+
+## Experience
+
+...
